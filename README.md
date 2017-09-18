@@ -2,7 +2,7 @@
 It's just the classic FizzBuzz problem
 
 # How to compile
-`git clone https://github.com/Hashfastr/FizzBuzz`
+`git clone https://github.com/Hashfastr/FizzBuzz` <br>
 `make`
 
 # How to run
